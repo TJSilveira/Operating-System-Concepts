@@ -14,4 +14,5 @@ int main()
 		printf("%ld\n",tv.tv_usec);
 		i++;
 	}
+	printf("%i\n", 3/2);
 }
